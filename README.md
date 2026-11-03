@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building Myself<br>👯 I’m looking to collaborate on open source <br>🤝 I’m looking for help with<br>🌱 I’m currently learning  AI ML And AI Web development <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Building Myself<br>👯 I’m looking to collaborate on open source <br>🤝 I’m developing my self by hackathon and real world problem<br>🌱 I’m currently learning  AI ML And AI Web development <br>💬 Ask me about<br>⚡ Coding is not just a program it is Emotion
 
 
 ## 🌐 Socials:
